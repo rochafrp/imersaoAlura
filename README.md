@@ -42,10 +42,8 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 
 **Vamos juntos celebrar o esporte brasileiro!** 🇧🇷
 
-**[Seu nome ou nome da sua equipe]**
+**Felipe Rocha**
 
-**[Link para seu perfil no GitHub ou LinkedIn]**
+**https://www.linkedin.com/in/felipe-rocha-652459162/**
 
-**[Link para o repositório do projeto]**
-
-**[Imagem legal de um atleta brasileiro]**
+**https://imersao-alura-one.vercel.app/**
